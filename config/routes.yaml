@@ -1,0 +1,3 @@
+recipe_api:
+   path: /recipe/{action}
+   controller: App\Controller\RecipeController::recipe
